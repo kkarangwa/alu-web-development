@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{display: flex;
 	flex-direction: column;
 }
@@ -12,6 +11,4 @@ article{flex: 2;
 aside{flex: 1;
 	overflow-y: auto;
 }
-=======
 
->>>>>>> 882882b4b3005802c8781b30e8a26354de49090c
